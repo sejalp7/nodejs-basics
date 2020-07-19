@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "Basics of NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sejalp7/nodejs-basics.git"
+  },
+  "author": "Sejal Pande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sejalp7/nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/sejalp7/nodejs-basics#readme"
+}
